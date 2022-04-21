@@ -1,0 +1,9 @@
+{
+  "Version": "12.4.1",
+  "Name": "Nocry Link Shortener",
+  "DestinationType": "URLShortener",
+  "RequestMethod": "GET",
+  "RequestURL": "https://nocry.me/api/create?",
+  "Parameters": {
+    "url": "$input$"
+  }

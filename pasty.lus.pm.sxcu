@@ -1,0 +1,9 @@
+﻿{
+  "Version": "13.7.0",
+  "DestinationType": "TextUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://pasty.lus.pm/api/v2/pastes",
+  "Body": "JSON",
+  "Data": "{\n  \"content\": \"$input$\"\n}",
+  "URL": "https://pasty.lus.pm/$json:id$"
+}

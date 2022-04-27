@@ -1,0 +1,12 @@
+﻿{
+  "Version": "13.7.0",
+  "Name": "Dpaste.org",
+  "DestinationType": "TextUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://dpaste.org/api/",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "content": "$input$",
+    "expires": "604800"
+  }
+}

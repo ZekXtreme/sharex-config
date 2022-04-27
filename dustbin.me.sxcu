@@ -1,0 +1,9 @@
+﻿{
+  "Version": "13.7.0",
+  "DestinationType": "TextUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://dustbin.me/api/new",
+  "Body": "JSON",
+  "Data": "{\n  \"data\": \"$input$\",\n  \"language\": \"PlainText\"\n}",
+  "URL": "https://dustbin.me/paste/$json:id$"
+}
